@@ -1,1 +1,0 @@
-test dosyasi 1
